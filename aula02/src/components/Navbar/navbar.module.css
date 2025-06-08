@@ -1,0 +1,17 @@
+
+.navbar {
+    width: 100%;
+    height: 3rem;
+    background-color: rgb(161, 0, 13);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.navItens {
+    list-style: none;
+    display:flex;
+    gap: 0.5rem;
+    color: #f9f9f9;
+    font-weight: bold;
+}

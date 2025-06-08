@@ -1,0 +1,11 @@
+.card {
+    background-color: blueviolet;
+    width: 250px;
+    margin: 10px;
+    height: 300px;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+}
